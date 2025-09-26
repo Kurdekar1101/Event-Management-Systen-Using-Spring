@@ -66,4 +66,4 @@ This project is ideal for learning how to build structured backend APIs with rea
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/event-management-app.git
+git clone https://github.com/Kurdekar1101/event-management-app.git
